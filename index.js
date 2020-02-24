@@ -1,4 +1,4 @@
-const WebTorrent = require('webtorrent')
+const WebTorrent = require('webtorrent-hybrid')
 const ed = require('ed25519-supercop')
 const crypto = require('crypto')
 
